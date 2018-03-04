@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "252491557742",
+    "firebase_url": "https://targetr-788c4.firebaseio.com",
+    "project_id": "targetr-788c4",
+    "storage_bucket": "targetr-788c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252491557742:android:209879bdeb09abe5",
+        "android_client_info": {
+          "package_name": "com.example.dannyreilly.targetr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252491557742-lgv33dr8kjrv3reck29t0kd56253u9rd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dannyreilly.targetr",
+            "certificate_hash": "8d7ca616d38321ac9cf8ccb53bc4c1a25d23b357"
+          }
+        },
+        {
+          "client_id": "252491557742-dq9dtu07b35utr9r17n2o5ejsd6qmi6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoGIT5_9Lfgo3v1gzVG2BYI_ar_rX92bc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252491557742-dq9dtu07b35utr9r17n2o5ejsd6qmi6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
